@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary / debug scripts
+_check_*.py
+_verify_*.py
+_test_*.py
+_analyze_*.py
+
+# Extracted docx (generated, not source)
+课程设计报告_路径规划/
+
+# IDE
+.vscode/
+.idea/
